@@ -20,5 +20,5 @@ I'm *April*, an aspiring machine-learning expert with a passion for turning raw 
 🔭 I’m currently working on exploring and experimenting with various machine learning concepts, eager to delve into this exciting field.
 🌱 I'm presently acquiring knowledge in Natural Language Processing, Large Language Models, and Deep Learning in addition to other Machine Learning principles.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plengxvi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plengxvi&layout=compact)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plengxvi&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
